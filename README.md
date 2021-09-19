@@ -1,2 +1,1 @@
-# tindog
-A sample startup website by Angela Yu
+TinDog Starting Files
